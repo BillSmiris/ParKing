@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Language -->
+    <string-array name="options_language_entries">
+        <item>English</item>
+        <item>Ελληνικά</item>
+
+    </string-array>
+
+    <string-array name="options_language_values">
+        <item>en</item>
+        <item>el</item>
+    </string-array>
+
+</resources>

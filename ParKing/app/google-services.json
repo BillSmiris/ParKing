@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "308923079622",
+    "firebase_url": "https://ergasia-30233.firebaseio.com",
+    "project_id": "ergasia-30233",
+    "storage_bucket": "ergasia-30233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308923079622:android:a030a225e784b8c7ac70c7",
+        "android_client_info": {
+          "package_name": "com.telikhergasia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308923079622-hgvoocdumto1eurm2a418jjkd50jg2ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr_gEGww-ULVr7WxAhm_F7IHelxCp2r2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308923079622-hgvoocdumto1eurm2a418jjkd50jg2ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308923079622:android:bbefd652af84ae9eac70c7",
+        "android_client_info": {
+          "package_name": "com.telikiergasia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308923079622-hgvoocdumto1eurm2a418jjkd50jg2ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr_gEGww-ULVr7WxAhm_F7IHelxCp2r2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308923079622-hgvoocdumto1eurm2a418jjkd50jg2ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

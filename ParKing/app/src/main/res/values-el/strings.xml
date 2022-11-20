@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ParKing</string>
+    <string name="title_activity_maps">Χάρτης</string>
+
+    <string name="title_head">Τίτλος</string>
+    <string name="distance_head">Απόσταση</string>
+    <string name="address_head">Διεύθυνση</string>
+    <string name="phone_head">Τηλέφωνο</string>
+    <string name="hours_head">Ώρες Λειτουργίας</string>
+    <string name="slots_head">Διαθέσιμες Θέσεις</string>
+    <string name="rating_head">Βαθμολογία</string>
+    <string name="price_head">Τιμοκατάλογος</string>
+    <string name="title_activity_settings">Ρυθμίσεις</string>
+    <string name="navigation_button">ΠΛΟΗΓΗΣΗ</string>
+    <string name="navigation">ΠΛΟΗΓΗΣΗ</string>
+
+
+    <string name="Temperature">Θερμοκρασία  </string>
+    <string name="Humidity">Υγρασία  </string>
+
+    <!--
+        FILTERS
+         -->
+    <string name="filters_header">Φίλτρα</string>
+
+    <string name="filters_range">Εμβέλεια Απόσταης</string>
+    <string name="filters_range_summary">Εισάγετε την απόσταση σε μέτρα</string>
+
+
+
+    <!--
+        OPTIONS
+         -->
+    <string name="options_header">Ρυθμίσεις Εφαρμογής</string>
+
+    <string name="options_language">Γλώσσα</string>
+    <string name="gps_title">GPS</string>
+    <string name="gps_status_summary_off">Ενεργοποίηση τοποθεσίας GPS</string>
+    <string name="gps_status_summary_on">Απενεργοποίηση τοποθεσίας GPS</string>
+    
+</resources>

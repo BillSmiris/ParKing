@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ParKing</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_head">Title</string>
+    <string name="distance_head">Distance</string>
+    <string name="address_head">Address</string>
+    <string name="phone_head">Phone</string>
+    <string name="hours_head">Working Hours</string>
+    <string name="slots_head">Available Slots</string>
+    <string name="rating_head">Rating</string>
+    <string name="price_head">Pricing</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="navigation_button">NAVIGATE</string>
+    <string name="navigation">NAVIGATE</string>
+
+
+    <string name="Temperature">Temperature  </string>
+    <string name="Humidity">Humidity  </string>
+
+
+    <!--
+        FILTERS
+         -->
+    <string name="filters_header">Filters</string>
+
+    <string name="filters_range">Distance Range</string>
+    <string name="filters_range_summary">Enter a distance range in meters</string>
+
+
+    <!--
+        OPTIONS
+         -->
+    <string name="options_header">App Settings</string>
+    <string name="options_language">Language</string>
+    <string name="gps_title">GPS</string>
+    <string name="gps_status_summary_off">Enable GPS Location</string>
+    <string name="gps_status_summary_on">Disable GPS Location</string>
+
+
+
+</resources>
